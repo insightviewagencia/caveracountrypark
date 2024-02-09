@@ -1,0 +1,329 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_9484B1F1_8E20_79F6_41E1_7A0C225DA57B.source = https://maps.app.goo.gl/8ovtyU3rBLMdGDw47
+LinkBehaviour_7B0A7805_67D8_5CD6_41D0_ACDB47A7315A.source = https://maps.app.goo.gl/8ovtyU3rBLMdGDw47
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://maps.app.goo.gl/ya2mrFWgVBV21brV8
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://maps.app.goo.gl/ya2mrFWgVBV21brV8
+LinkBehaviour_87DA749C_93F5_2D94_41D4_7F0B3842095D.source = https://nucleodeturismo.com.br/ticket/index.php?ticket_id=1c383cd30b7c298ab50293adfecb7b18&acao=detalhes-produto&grupo=22&categoria=2
+LinkBehaviour_95774230_8E20_7A76_41AA_F1C26A216EDC.source = https://nucleodeturismo.com.br/ticket/index.php?ticket_id=1c383cd30b7c298ab50293adfecb7b18&acao=detalhes-produto&grupo=22&categoria=2
+LinkBehaviour_8769D42A_93BD_2CBC_41AD_0EB2830A487B.source = https://www.facebook.com/caveracountrypark/
+LinkBehaviour_957B71F1_8E20_79F6_41DA_EFC2B445F6F5.source = https://www.facebook.com/caveracountrypark/
+LinkBehaviour_9486E1F1_8E20_79F6_41D2_8ED53D619E5F.source = https://www.instagram.com/caveracountrypark/
+LinkBehaviour_87179558_93AD_2C9C_41DF_D1637BEC36EF.source = https://www.instagram.com/caveracountrypark/
+
+## Media
+
+### Audio
+audiores_A334355F_8E63_DE2A_41D7_C1B164EC7FF6.mp3Url = media/audio_A59E2571_8E60_3EF6_41D3_D2DD1F12B303_pt.mp3
+
+### Title
+panorama_9CE997A1_8D51_3C15_41A5_6B9B6FB6D275.label = 20231213_113711_124
+panorama_9CE8AD5F_8D51_6C2D_41D9_A222D0BBF330.label = 20231213_113740_317
+panorama_9CE87805_8D51_741D_41DB_870752B156F6.label = 20231213_113753_979
+panorama_9CE832B3_8D51_1475_41CD_CFE28BA02D9E.label = 20231213_113805_642
+panorama_9CE83E49_8D51_2C15_41D7_B04C907E610F.label = 20231213_113822_783
+panorama_9CE89A0E_8D51_342F_41E0_25590D027785.label = 20231213_113839_077
+panorama_9CE8C4F5_8D51_1DFD_41E0_11BF6FB025BF.label = 20231213_113855_368
+panorama_9CE95441_8D51_FC15_41DC_A98E367CECC3.label = 20231213_113911_047
+panorama_9CE8CFF5_8D51_EBFD_41DD_DB01349AD60D.label = 20231213_113927_378
+panorama_9CE9CE4C_8D51_2C13_4195_B2DC03EC5EBC.label = 20231213_113944_010
+panorama_9CE87B7A_8D51_34F7_41E0_A94F205F52FD.label = 20231213_113957_113
+panorama_9CE90C03_8D51_6C15_4187_27EE564217C7.label = 20231213_114008_569
+panorama_9CE997D3_8D51_7C35_41DA_ED6BB89FD940.label = 20231213_114020_969
+panorama_9CE9169B_8D51_1C35_41DF_95A74E495D1F.label = 20231213_114032_614
+panorama_9CE98411_8D51_3C35_41DD_C5013B30AACC.label = 20231213_114043_426
+panorama_9CE941C5_8D51_141C_41D4_AA60392A0B49.label = 20231213_114056_665
+panorama_9CE97FA0_8D52_EC13_41D2_2A15ADEE678E.label = 20231213_114112_059
+panorama_9CE91D80_8D52_EC13_41DC_AB5B972E21CC.label = 20231213_114124_256
+panorama_9CE88AF3_8D53_15F5_41D2_89F0169A29A8.label = 20231213_114138_045
+panorama_9CEB1A27_8D53_341C_41D8_B3E0E1C4C12B.label = 20231213_114151_338
+panorama_9CE886ED_8D53_1DED_41D0_D089D0609C07.label = 20231213_114204_820
+panorama_9CEB76FC_8D53_7DEC_41C4_602628CD294F.label = 20231213_114217_269
+panorama_9CEB77CB_8D53_1C14_41BD_030D38946A2B.label = 20231213_114232_903
+panorama_9CEB667F_8D53_3CED_41CA_03068FA32486.label = 20231213_114246_988
+panorama_9CEB5524_8D53_1C1C_41D0_3F37A16AB18F.label = 20231213_114302_496
+panorama_9CEB22BA_8D53_F477_41DE_88B6E8EB429F.label = 20231213_114322_009
+panorama_9CEBF0AB_8D53_1415_4195_899E57F79845.label = 20231213_114337_380
+panorama_9CEBDCDC_8D53_2C33_41C0_F05EDB800345.label = 20231213_114352_409
+panorama_9CEB3B2B_8D53_3415_41A9_B2027C047E75.label = 20231213_114404_635
+panorama_9CEB3746_8D53_1C1C_41C3_99F0679B6D12.label = 20231213_114417_837
+panorama_9CEB2472_8D53_7CF4_41E1_A90AA674A11F.label = 20231213_114426_954
+panorama_9CEB5079_8D53_14F4_41D5_5E1E03C93773.label = 20231213_114437_950
+panorama_9CEB0DC5_8D53_2C1D_41DB_77F8EF0646D3.label = 20231213_114449_657
+panorama_9CEB2A23_8D53_3415_41DD_31EB3E3A5EE4.label = 20231213_114501_633
+panorama_9CEB375B_8D53_1C34_41CE_B24AB43E4727.label = 20231213_114516_356
+panorama_9CEAF553_8D52_FC34_41E0_3DFEC495723B.label = 20231213_114526_675
+panorama_9CE964E6_8D51_1C1F_41E0_460391D8AB1A.label = 20231213_114537_975
+panorama_9CE921A5_8D51_341C_41C6_35B5C6D9D531.label = 20231213_114552_845
+panorama_9CE90074_8D51_14FC_41CB_86BF1AEA8640.label = 20231213_114608_500
+panorama_9CE90DC9_8D51_6C15_41D8_B882F21AA071.label = 20231213_114619_638
+panorama_9CE96BB2_8D51_7474_41A9_2FA48A96CF94.label = 20231213_114638_068
+panorama_9CE90815_8D51_143D_41DB_CED4D8C43D1A.label = 20231213_114653_315
+panorama_9CE925D0_8D51_3C33_41C4_DEECD07B5B4C.label = 20231213_114707_528
+panorama_9CD67F6E_8D51_ECEC_41DF_47AA3F95935E.label = 20231213_114746_776
+panorama_9CE97EE6_8D51_2C1C_41E0_3B86B30791B1.label = 20231213_114802_370
+panorama_9CD68D0A_8D51_2C17_41E0_BA41E3B13594.label = 20231213_114813_071
+panorama_9CD69BF0_8D51_6BF4_41DB_8FBF92D3AA6B.label = 20231213_114824_710
+panorama_9CD6E9AE_8D51_746C_41B6_64ED27FA40C3.label = 20231213_114841_505
+panorama_9CD6877B_8D51_1CF4_41A0_E8386C00D0EE.label = 20231213_114853_871
+panorama_9CD683C9_8D51_3414_41DE_E51C153F829E.label = 20231213_114907_470
+panorama_9CD671C5_8D51_141C_418E_DCEFEB5AD0EF.label = 20231213_114920_590
+panorama_9CD63EEE_8D5E_EDEC_41AD_40BBAF7DB56A.label = 20231213_114933_773
+panorama_9CD7FDEB_8D5E_EC14_41A0_55317EEEC9A8.label = 20231213_114946_433
+panorama_9CD7AA80_8D5F_1413_41E1_A2EA92C7E0E3.label = 20231213_114959_153
+panorama_9CD617E2_8D5F_3C14_41DA_4B7A051DE4A2.label = 20231213_115008_793
+panorama_9CD7D42E_8D5F_1C6C_41C5_2E0628661D8A.label = 20231213_115022_414
+panorama_9CD7C187_8D5F_741C_41D9_D2225AF0D44C.label = 20231213_115033_381
+panorama_9CD60C4B_8D5F_2C14_41B4_4E54B0053A69.label = 20231213_115059_924
+panorama_9CD67839_8D5F_3477_41E1_1950DADF7A1C.label = 20231213_115112_821
+panorama_9CD6F6A9_8D5F_1C14_41CE_D3F5B9124E69.label = 20231213_115123_731
+panorama_9CD67343_8D5F_F414_41DE_4AF26038E265.label = 20231213_115134_285
+panorama_9CD6E0CA_8D5F_1415_41BD_709C61CE8899.label = 20231213_115148_076
+panorama_9CD6ED54_8D5F_2C3C_41D8_F8020E846F7B.label = 20231213_115159_992
+panorama_9CD6EB7F_8D5F_34EB_41CC_9C47C1757434.label = 20231213_115212_759
+panorama_9CD6F786_8D5F_1C1C_41C9_FF0C6B87DE5D.label = 20231213_115221_797
+panorama_9CD64BE9_8D5F_7414_4162_45D5F8489BB5.label = 20231213_115230_279
+panorama_9CD638C8_8D5F_1414_41C2_430910D81663.label = 20231213_115238_775
+panorama_9CD65558_8D5F_3C34_41DD_1A1FEA1B90A5.label = 20231213_115249_378
+panorama_9CD5F24A_8D5F_1414_41DA_420116BBF7A9.label = 20231213_115257_678
+panorama_9CD62E03_8D5E_EC1B_41C6_D463FA001F82.label = 20231213_115306_307
+panorama_9CD5CBF1_8D5E_EBF7_41C3_0FF6CE15DEBF.label = 20231213_115315_473
+panorama_9CD9B766_8D51_1C1C_41D1_206872793238.label = 20231213_115324_526
+panorama_9CDA44AF_8D51_3C6C_41D5_CB57998895E8.label = 20231213_115333_451
+panorama_9CDA10FD_8D51_15EC_41D1_40740886F0C0.label = 20231213_115351_835
+panorama_9CDAFE23_8D51_6C14_41E0_449FDE014BCF.label = 20231213_115400_331
+panorama_9CDA69F0_8D51_77F4_41CD_FF6A74138D29.label = 20231213_115408_975
+panorama_9CDAA77F_8D51_1CEB_41BD_3BD4818E6856.label = 20231213_115418_236
+panorama_9CDAB4FC_8D51_3DEC_41C7_ECC882CE0A78.label = 20231213_115427_421
+panorama_9CDB6262_8D51_1414_41C4_31466AF87124.label = 20231213_115436_966
+panorama_9CDAEDF2_8D51_EFF4_41D1_14B1C63C55F5.label = 20231213_115445_887
+panorama_9CDB6B00_8D51_F414_41D2_3D8C22D61848.label = 20231213_115454_860
+panorama_47611361_64D8_334E_41D9_608C98229665.label = 20240201_184943_362
+panorama_47AF57C6_64D8_5352_41C5_E2E4E7AFA1B9.label = 20240201_184951_022
+panorama_47AE56E0_64D8_754E_41C2_ABBB9BCEA31E.label = 20240201_184959_295
+panorama_47AE6599_64D8_57FF_41CB_084A84CE4DF7.label = 20240201_185007_435
+panorama_47ADD872_64D8_3D32_41D9_636B6A251197.label = 20240201_185014_763
+panorama_47AE2728_64D8_D4DD_4194_052DA1F13468.label = 20240201_185021_562
+panorama_47AD13F1_64D8_F34F_41C6_1374279AF271.label = 20240201_185031_208
+panorama_47AEA1F0_64D8_CF4D_41C2_112F9DF7C6C4.label = 20240201_185040_796
+panorama_47ADDE2C_64D8_D4D6_41D7_B1BD8811DA3C.label = 20240201_185049_721
+panorama_47AD6E00_64D8_34CE_41D2_93A625C6B1DC.label = 20240201_185059_140
+panorama_47AD6BB9_64D8_533F_41CD_F2DDA5F11717.label = 20240201_185108_325
+panorama_47AEE91A_64D8_7CFD_4192_0090BAB8FDB7.label = 20240201_185116_638
+panorama_47AEF4E1_64D8_554E_418A_771D825C29D6.label = 20240201_185124_115
+panorama_47AEE14E_64D8_4F55_41C3_E8BD7E40D153.label = 20240201_185132_096
+panorama_47AD2DA7_64D8_37D2_41CF_7AE575767BD6.label = 20240201_185139_133
+panorama_47AF18B0_64D9_DDCE_41BF_3F0A744D9B3B.label = 20240201_185148_012
+panorama_47AF9570_64D9_F74D_4182_27313C849A37.label = 20240201_185158_228
+panorama_8325BB7E_8E20_4AEA_41D1_5BFD23707D5B.label = 20240201_185206_058
+panorama_47AF51F1_64D9_CF4F_41CE_A8945809E28E.label = 20240201_185214_211
+panorama_47A81499_64D8_35FF_41D7_3460127BAD55.label = 20240201_185221_910
+panorama_47AF841E_64D8_54F5_41D9_8A91915E384B.label = 20240201_185230_723
+panorama_47AF8169_64D8_4F5F_41C2_3C6286CDD55C.label = 20240201_185238_486
+panorama_47AF2DB6_64D8_7732_41D5_22F432A54C41.label = 20240201_185247_367
+panorama_47AFFAA3_64D8_5DD2_41D7_EC21FF4048B4.label = 20240201_185255_592
+panorama_47AFD799_64D8_33FF_41D1_44AFB8C3802E.label = 20240201_185303_557
+panorama_47AFE2BB_64D8_CD33_4167_1922F534D952.label = 20240201_185311_156
+panorama_47AF3DE7_64D8_D753_41BF_793FD060AB95.label = 20240201_185319_671
+panorama_47AF0940_64D8_FF4D_41BD_201ACC489F4C.label = 20240201_185328_492
+panorama_47AF5679_64D8_D53F_41BB_6C7BF34B8D0D.label = 20240201_185338_445
+panorama_82DC3169_8E20_5616_41D6_BEC89368B13A.label = 20240207_212818_748
+panorama_83231F95_8E20_4A3E_41DF_71E42CADAAAE.label = 20240207_212826_429
+panorama_83239B07_8E27_CA1B_41D4_65E1175D6FC1.label = 20240207_212833_443
+panorama_83239505_8E27_FE1E_41D1_27AE3C97F1B8.label = 20240207_212841_217
+panorama_83237758_8E27_DA36_41C5_5AFCC052AA0E.label = 20240207_212848_839
+panorama_8322F157_8E27_D63A_41D8_CCAEE6DCE1B1.label = 20240207_212857_559
+panorama_83236CBE_8E27_CE6A_41A8_6D41165F5685.label = 20240207_212904_880
+panorama_832509AC_8E20_366D_41C1_DE6E7BF78507.label = 20240207_212914_876
+panorama_8324F5FE_8E20_59ED_41D2_4DF6F02F97CF.label = 20240207_212926_678
+panorama_832542BB_8E20_7A6A_41BD_E116685A1394.label = 20240207_212937_057
+panorama_83250EA0_8E20_4A16_41D5_9A182F98FE8A.label = 20240207_212946_077
+panorama_83237228_8E20_5A16_41D3_5919DF4CE03E.label = Aerea frente parq
+panorama_83239924_8E20_561E_41B8_65CC0C63241A.label = Aerea p ondas
+panorama_82DC7F64_8E20_4A1D_41DB_E9C76FA8ABBD.label = Aérea Piscina infantil
+panorama_82DC45A4_8E20_7E1E_41C2_D5B0146594C5.label = Aérea Rodeio
+panorama_83191C64_8E20_4E1E_41C4_F9077F9EB61F.label = Aérea rio lento
+video_84EC863E_939D_2C94_41C2_C7EC780264D7.label = Caverá Country Park   VERÃO 202[1]
+panorama_8323ECD0_8E20_4E36_41E0_2C025DB29876.label = Foto Ceu 2
+
+### Video
+videolevel_A17541CD_8E60_D62F_41DE_9689729C5EA6.posterURL = media/video_84EC863E_939D_2C94_41C2_C7EC780264D7_poster_pt.jpg
+videolevel_A17541CD_8E60_D62F_41DE_9689729C5EA6.url = media/video_84EC863E_939D_2C94_41C2_C7EC780264D7_pt.mp4
+
+## Skin
+
+### Button
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = Adquirir meu ingresso online
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = Adquirir meu ingresso online
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Area de Camping
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.label = Area de Camping
+Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = BACK
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label = Beira da Lagoa
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A_mobile.label = Beira da Lagoa
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Café
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01_mobile.label = Café
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label = Casarão
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.label = Casarão
+Button_80F3A3A6_916F_6419_41E0_0CCA49A2D0A8_mobile.label = Churrasqueiras
+Button_80F3A3A6_916F_6419_41E0_0CCA49A2D0A8.label = Churrasqueiras
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.label = Container
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label = Container
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = Contry Club
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = Contry Club
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = Espaço Rodeio
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F_mobile.label = Espaço Rodeio
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = Espaço de Eventos
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.label = Espaço de Eventos
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.label = Hotel
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label = Hotel
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = Inserdt Text
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = Inserdt Text
+Button_168D9311_3106_01EC_41A8_3BD8769525D6_mobile.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.pressedLabel = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.pressedLabel = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3_mobile.label = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2_mobile.label = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA_mobile.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.pressedLabel = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8_mobile.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547_mobile.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371_mobile.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727_mobile.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1_mobile.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA_mobile.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28_mobile.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E_mobile.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A_mobile.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673_mobile.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB_mobile.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F_mobile.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813_mobile.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.pressedLabel = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43_mobile.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779_mobile.label = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC_mobile.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353_mobile.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7_mobile.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.pressedLabel = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8_mobile.label = Lorem Ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0_mobile.label = Lorem ipsum
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label = Lorem ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label = Lorem ipsum
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438_mobile.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE_mobile.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B_mobile.label = Lorem ipsum
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = Piscina Infantil
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.label = Piscina Infantil
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.label = Piscina Térmica
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Piscina Térmica
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = Piscina de ondas
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.label = Piscina de ondas
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label = Pousada
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189_mobile.label = Pousada
+Button_15A13DDC_31FA_0014_41C5_41AE80876834_mobile.label = Quarto
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Quarto
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Quiosques
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Quiosques
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = RESTAURANTS >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = RESTAURANTS >
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Rampa de surf
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.label = Rampa de surf
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = Rampa do tigre
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.label = Rampa do tigre
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.pressedLabel = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = Reception
+Button_15A10DDC_31FA_0014_4185_021C898E177D_mobile.label = Recepção
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Recepção
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Rio Lento
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Rio Lento
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.label = Suíte
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Suíte
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = Toboáguas
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = Toboáguas
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Velho oeste
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Velho oeste
+Button_81D02D47_916D_5C1A_41D8_21856EFE60C3_mobile.label = Visão Aérea
+Button_81D02D47_916D_5C1A_41D8_21856EFE60C3.label = Visão Aérea
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = Voltar
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = Voltar
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = Voltar
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = Voltar
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = Voltar
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = Voltar
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = Voltar
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = Voltar
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = espaço de eventos
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = espaço de eventos
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = hospedagens caverá
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = hospedagens caverá
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = parque aquático
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = parque aquático
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = rodeio
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = rodeio
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF_mobile.label = trocadores
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = trocadores
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_pt.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_pt.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_pt.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_pt.jpg
+Image_1E18723C_57F1_802D_41C5_8325536874A5_mobile.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_mobile_pt.jpg
+Image_1E18723C_57F1_802D_41C5_8325536874A5.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_pt.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile_pt.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_pt.jpg
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.604920405209843vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.6vmin;font-family:'Oswald';"><B>Caverá Country Park: O maior park aquático do Sul</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1707670043415357vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vmin;font-family:'Oswald';"><B>Considerado uma das principais âncoras turísticas do Sul de Santa Catarina, localizado a dez minutos do Centro de Araranguá, no acesso à praia Morro dos Conventos, o Caverá Country Park é composto por uma estrutura de lazer formada por um gigante parque aquático, que abriga mais de 50 grandes atrações e experiências únicas de descida em toboáguas. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1707670043415357vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vmin;font-family:'Oswald';"><B>O Caverá Park conta ainda com hotel categoria turística, pousada rural, hotel container, um restaurante com delícias regionais, ampla praça gastronômica e ainda um sofisticado bistrô. Dentre as atrações do parque aquático, a piscina com ondas artificiais, segunda maior do Brasil, é considerada a melhor de todos os tempos do Caverá Park. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1707670043415357vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vmin;font-family:'Oswald';"><B>O imponente brinquedo, impressiona pelo tamanho e uma gigantesca escultura de um leão. Destaque para inúmeros toboáguas diferentes, que proporcionam emocionantes maneiras de descida. Além de desfrutar das atrações aquáticas, os visitantes podem conferir as novidades de paisagismo e áreas verdes, que foram completamente revitalizadas. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1707670043415357vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.17vmin;font-family:'Oswald';"><B>O local está com novas espreguiçadeiras, tem mais frescor com a ampliação dos coqueiros e palmeiras. No Restaurante Caverá as delícias da culinária local podem ser degustadas de forma tranquila e segura, em um ambiente acolhedor e com condições de higiene impecável.</B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.3333333333333335vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vmin;font-family:'Oswald';"><B>Caverá Country Park: O maior park aquático do Sul</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.777777777777778vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Oswald';"><B>Considerado uma das principais âncoras turísticas do Sul de Santa Catarina, localizado a dez minutos do Centro de Araranguá, no acesso à praia Morro dos Conventos, o Caverá Country Park é composto por uma estrutura de lazer formada por um gigante parque aquático, que abriga mais de 50 grandes atrações e experiências únicas de descida em toboáguas. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.777777777777778vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Oswald';"><B>O Caverá Park conta ainda com hotel categoria turística, pousada rural, hotel container, um restaurante com delícias regionais, ampla praça gastronômica e ainda um sofisticado bistrô. Dentre as atrações do parque aquático, a piscina com ondas artificiais, segunda maior do Brasil, é considerada a melhor de todos os tempos do Caverá Park. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.777777777777778vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Oswald';"><B>O imponente brinquedo, impressiona pelo tamanho e uma gigantesca escultura de um leão. Destaque para inúmeros toboáguas diferentes, que proporcionam emocionantes maneiras de descida. Além de desfrutar das atrações aquáticas, os visitantes podem conferir as novidades de paisagismo e áreas verdes, que foram completamente revitalizadas. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.777777777777778vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:'Oswald';"><B>O local está com novas espreguiçadeiras, tem mais frescor com a ampliação dos coqueiros e palmeiras. No Restaurante Caverá as delícias da culinária local podem ser degustadas de forma tranquila e segura, em um ambiente acolhedor e com condições de higiene impecável.</B></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.770000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.770000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.770000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.770000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5800000000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.27vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2500000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5800000000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.27vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.11vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2500000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 20
